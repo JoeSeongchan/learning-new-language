@@ -7,4 +7,4 @@
 | 언어 | 진행 여부 |
 | ---- | --------- |
 | 루비 |  O   |
-| JavaScript(NodeJS)     |           |
+| JavaScript(NodeJS)     |      O     |
