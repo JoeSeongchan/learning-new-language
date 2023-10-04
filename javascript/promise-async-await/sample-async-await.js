@@ -1,6 +1,7 @@
 // 코드 카타
 // async, await, promise 의 사용법을 익힌다.
 // 참고 : https://velog.io/@nemo/async-await
+// 에러 처리 방법 참고 : https://stackoverflow.com/questions/46610614/break-promise-chain-stop-the-next-then-from-executing
 async function getIdToken(){
     let error = new Error("네트워크 오류로 인해 아이디 토큰을 가져올 수 없습니다.");
     error.name = "network-error";
